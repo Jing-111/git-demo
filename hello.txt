@@ -3,3 +3,6 @@ git-demo is your another name to use
 
 see you again!
 ssh to see what happend
+ssh git@github.com:Jing-111/git-demo.git can be used
+let's test push 
+
